@@ -9,8 +9,6 @@ North, New Zealand
 - 2000 – 2003: Bachelor in Science, Environmental Technology, HAS University of Applied Sciences, ’s-Hertogenbosch, The Netherlands
 - 1996 – 1999: Diploma in Process and Environmental Technology, Markiezaat College, Secondary vocational education, Bergen op Zoom, The Netherlands
 
-
-
 ### Work Experience
 - 2022 – Now: GIS Technical Lead, Watercare Services Limited, Auckland, New Zealand
 - 2024: GIS Product Owner, Watercare Services Limited, Auckland, New Zealand
@@ -44,8 +42,3 @@ North, New Zealand
   - Leadership Development Programme (Intern programme), Horizons Regional Council, New Zealand
 #### - 2016:
   - Geostatistics and Open-Source Statistical Computing, Geo-Information Science and Earth Observation, University of Twente, The Netherlands
-
-
-
-#### - 2020:
-
