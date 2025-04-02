@@ -22,9 +22,30 @@ North, New Zealand
 ### Courses and Specializations
 #### - 2024:
   - Leadership: Practical Skills, Chris Croft, Online, LinkedIn
-  - People Leadership Course, Watercare Limited (Internal led course), Michael Power
-  - EMPOWERME Course, Watercare Limited (Internal led course), Michael Power
+  - People Leadership Course, Watercare Limited (Internal led course)
+  - EMPOWERME Course, Watercare Limited (Internal led course)
   - Make an Impact with Modern Geo Apps MOOC, Online, Esri
   - Transform AEC Projects with GIS and BIM MOOC, Online, Esri
 #### - 2023:
+  - Imagery in Action MOOC, Online, Esri
+  -	Building Your Visibility as a Leader, Jason Schenker, Online, LinkedIn
+  -	Going Places with Spatial Analysis MOOC, Online, Esri
 #### - 2022:
+  - Digital Leadership Course, Watercare Limited (Internal led course)
+  -	Scrum Certification 2022 +Scrum Master+ Agile Scrum Training, Online, Udemy
+#### - 2021:
+  - Leadership: Becoming an Effective and Dynamic Leader, Online, Udemy
+  -	Interactive Python Dashboards with Plotly and Dash, Online, Udemy
+#### - 2018:
+  - Use and Management of GeoWeb, Esri Nederland, Rotterdam, The Netherlands
+  -	Digital Image Processing with OpenCV in Python, Online, GEO University                                    
+  -	FME Desktop Basic, Red Geographics, Zevenbergen, The Netherlands
+#### - 2017:
+  - Leadership Development Programme (Intern programme), Horizons Regional Council, New Zealand
+#### - 2016:
+  - Geostatistics and Open-Source Statistical Computing, Geo-Information Science and Earth Observation, University of Twente, The Netherlands
+
+
+
+#### - 2020:
+
